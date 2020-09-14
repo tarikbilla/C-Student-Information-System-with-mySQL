@@ -1,1 +1,1 @@
-# C-Student-Information-System-with-mySQL
+# Student Information System Using C Sharp with MySQL
