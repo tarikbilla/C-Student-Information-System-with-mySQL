@@ -85,3 +85,15 @@ D:\PERSONAL\NWU\C#\Student-Information-System-Using-C-Sharp\Students_registratio
 D:\PERSONAL\NWU\C#\Student-Information-System-Using-C-Sharp\Students_registration\obj\Debug\Students_registration.csproj.CopyComplete
 D:\PERSONAL\NWU\C#\Student-Information-System-Using-C-Sharp\Students_registration\obj\Debug\Students_registration.exe
 D:\PERSONAL\NWU\C#\Student-Information-System-Using-C-Sharp\Students_registration\obj\Debug\Students_registration.pdb
+D:\project\Students_registration\bin\Debug\Students_registration.exe
+D:\project\Students_registration\bin\Debug\Students_registration.pdb
+D:\project\Students_registration\obj\Debug\Students_registration.csprojAssemblyReference.cache
+D:\project\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+D:\project\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+D:\project\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+D:\project\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+D:\project\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.cache
+D:\project\Students_registration\obj\Debug\Students_registration.csproj.CoreCompileInputs.cache
+D:\project\Students_registration\obj\Debug\Students_registration.csproj.CopyComplete
+D:\project\Students_registration\obj\Debug\Students_registration.exe
+D:\project\Students_registration\obj\Debug\Students_registration.pdb

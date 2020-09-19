@@ -54,5 +54,10 @@ namespace Students_registration.FORMS
             Student_reg sr = new Student_reg();
             sr.searchStudent(txtSearch.Text, this.lsvStudList);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
     }
 }

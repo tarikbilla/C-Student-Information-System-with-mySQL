@@ -88,5 +88,9 @@ namespace Students_registration.FORMS
             }
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
     }
 }
